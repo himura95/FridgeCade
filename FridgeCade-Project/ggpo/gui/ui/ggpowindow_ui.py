@@ -2,8 +2,7 @@
 
 # Form implementation generated from reading ui file 'ggpo/gui/ui/ggpowindow.ui'
 #
-# Created: Wed Aug 26 01:29:18 2015
-#      by: PyQt4 UI code generator 4.10.4
+# Created by: PyQt4 UI code generator 4.12.1
 #
 # WARNING! All changes made in this file will be lost!
 
@@ -47,7 +46,7 @@ class Ui_MainWindow(object):
         self.layoutWidget = QtGui.QWidget(self.uiSplitter)
         self.layoutWidget.setObjectName(_fromUtf8("layoutWidget"))
         self.verticalLayout = QtGui.QVBoxLayout(self.layoutWidget)
-        self.verticalLayout.setContentsMargins(-1, -1, -1, 3)
+        self.verticalLayout.setContentsMargins(0, 0, 0, 3)
         self.verticalLayout.setObjectName(_fromUtf8("verticalLayout"))
         self.uiChatHistoryTxtB = QtGui.QTextBrowser(self.layoutWidget)
         self.uiChatHistoryTxtB.setAcceptDrops(False)

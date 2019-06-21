@@ -2,8 +2,7 @@
 
 # Form implementation generated from reading ui file 'ggpo/gui/ui/logindialog.ui'
 #
-# Created: Tue Aug 25 22:55:14 2015
-#      by: PyQt4 UI code generator 4.10.4
+# Created by: PyQt4 UI code generator 4.12.1
 #
 # WARNING! All changes made in this file will be lost!
 
@@ -119,7 +118,7 @@ class Ui_DialogLogin(object):
         DialogLogin.setTabOrder(self.uiLoginBtn, self.uiRegisterLink)
 
     def retranslateUi(self, DialogLogin):
-        DialogLogin.setWindowTitle(_translate("DialogLogin", "FightCade", None))
+        DialogLogin.setWindowTitle(_translate("DialogLogin", "FridgeCade", None))
         self.labelUsername.setText(_translate("DialogLogin", "Username", None))
         self.labelPassword.setText(_translate("DialogLogin", "Password", None))
         self.uiSavePasswordChk.setText(_translate("DialogLogin", "Save Password", None))
